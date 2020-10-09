@@ -8,7 +8,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * Search for a gif :nerd_face:
 
 ## Technologies :octocat:
-* React :sparkles:
+* Javascript :sparkles:
+* Tpescript :heart:
 * Css :nail_care:
 * HTML :hammer:	
 * GitHub API :zap:
