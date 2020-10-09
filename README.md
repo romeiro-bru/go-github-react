@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Technologies :octocat:
 * Javascript :sparkles:
-* Tpescript :heart:
+* Typescript :heart:
 * Css :nail_care:
 * HTML :hammer:	
 * GitHub API :zap:
