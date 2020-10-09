@@ -1,13 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). :heart:
 
+<p align="center">
+<img align="center" src="hhttps://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="50%" alt="github"/>
+</p>
 
-# Github API
+## Features :deciduous_tree:
+* Search for a gif :nerd_face:
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Technologies :octocat:
+* React :sparkles:
+* Css :nail_care:
+* HTML :hammer:	
+* GitHub API :zap:
